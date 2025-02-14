@@ -35,6 +35,16 @@ B-Deck is a macropad made by Battak(me) for Hackpad.
 - 4x M3 hex nuts(just in case)
 - 8x Kailh Hot-swap Socket
 
-![image](https://github.com/user-attachments/assets/8ce0ab16-e0b0-42d0-b748-d4ee08ce5972)
-![image](https://github.com/user-attachments/assets/556275d9-b148-4d51-b6e8-0c6bf95b5a16)
-![image](https://github.com/user-attachments/assets/bcfd98e1-e562-48c3-b617-4d55031ebec4)
+# B-Deck
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/B-deck.png?raw=true)
+
+# Case
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/BottomCase.png?raw=true)
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/Plate.png?raw=true)
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/TopCase.png?raw=true)
+
+# Schematic
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/Schematic.png?raw=true)
+
+# PCB
+![image](https://github.com/bigloosegoose/B-Deck/blob/main/B-Deck/Images/pcb.png?raw=true)
